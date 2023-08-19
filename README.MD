@@ -16,7 +16,7 @@ Note: It does not yet support quake maps because the textures are packed in wad 
 ## Major Needs
 * A proper panda3d base .fgd
 * Point entity support
-    - Currently point entities are indeed parse and you can write any custom algorithm you need by just looping it. (see properties example). Its just not automatic yet.
+    - Currently point entities are indeed parse and you can write any custom algorithm you need by just looping it. (see properties example). Its just not automatic until we come up with a great base panda3d fgd.
 
 
 
