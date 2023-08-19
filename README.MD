@@ -4,7 +4,7 @@ This module will import trenchbroom map files into panda3d and generate collisio
 
 
 Use:
-# you can use any node path where base.render is, this is the node path the map will be parented to.
+you can use any node path where base.render is, this is the node path the map will be parented to.
 load_map("test_level9.map", base.render)
 
 To skip collision generation:
