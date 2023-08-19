@@ -2,7 +2,9 @@
 ## Info
 Port of https://github.com/QodotPlugin/libmap for Panda3d.
 
-This module will import trenchbroom map files into panda3d and generate collision for solid brush geometry.
+This module will import generic trenchbroom map files into panda3d and generate collision for solid brush geometry.
+
+Note: It does not yet support quake maps because the textures are packe in wads. This is actually pretty straightforward to implement if youd like, I just had no need for it. I marked where to add the code you if you want it. 
 
 
 ## Usage:
