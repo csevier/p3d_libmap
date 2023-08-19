@@ -76,3 +76,4 @@ def load_map(map_name, parent, generate_collisions=True, override_texture_locati
                                 max = max.fmax(origin)
                             solid = CollisionPolygon(v1, v2, v3)
                             collision_node.add_solid(solid)
+    return mp.map_data
