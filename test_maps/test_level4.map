@@ -1,0 +1,16 @@
+// Game: Qodot
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"_tb_textures" "/home/csevier/source/qodot_test/textures"
+// brush 0
+{
+( -80 -80 -48 ) ( -80 -79 -48 ) ( -80 -80 -47 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 -80 -48 ) ( -80 -80 -47 ) ( -79 -80 -48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 -80 -48 ) ( -79 -80 -48 ) ( -80 -79 -48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 48 -16 ) ( 48 49 -16 ) ( 49 48 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -699.48663 223.16193 0 0.23563136 0.31269768
+( 48 48 -16 ) ( 49 48 -16 ) ( 48 48 -15 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 48 -16 ) ( 48 48 -15 ) ( 48 49 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+}

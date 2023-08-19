@@ -1,0 +1,207 @@
+// Game: Qodot
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"_tb_textures" "/home/csevier/source/qodot_test/textures"
+// brush 0
+{
+( -176 -160 32 ) ( -176 -159 32 ) ( -176 -160 33 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -176 -208 32 ) ( -176 -208 33 ) ( -175 -208 32 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -176 -160 32 ) ( -175 -160 32 ) ( -176 -159 32 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -64 -96 48 ) ( -64 -95 48 ) ( -63 -96 48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -64 -96 48 ) ( -63 -96 48 ) ( -64 -96 49 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -64 -96 48 ) ( -64 -96 49 ) ( -64 -95 48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 1
+{
+( 160 -80 240 ) ( 160 -79 240 ) ( 160 -80 241 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 160 -80 240 ) ( 160 -80 241 ) ( 161 -80 240 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 160 -80 240 ) ( 161 -80 240 ) ( 160 -79 240 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 400 -16 256 ) ( 400 -15 256 ) ( 401 -16 256 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 400 -16 256 ) ( 401 -16 256 ) ( 400 -16 257 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 400 -16 256 ) ( 400 -16 257 ) ( 400 -15 256 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 2
+{
+( 32 -400 240 ) ( 32 -399 240 ) ( 32 -400 241 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 32 0 0 1 1
+( 32 -400 240 ) ( 32 -400 241 ) ( 33 -400 240 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 128 0 0 1 1
+( 32 -400 240 ) ( 33 -400 240 ) ( 32 -399 240 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 128 -32 0 1 1
+( 112 -240 256 ) ( 112 -239 256 ) ( 113 -240 256 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 128 -32 0 1 1
+( 112 -240 256 ) ( 113 -240 256 ) ( 112 -240 257 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 128 0 0 1 1
+( 112 -240 256 ) ( 112 -240 257 ) ( 112 -239 256 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 32 0 0 1 1
+}
+// brush 3
+{
+( -160 304 0 ) ( -160 305 0 ) ( -160 304 1 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -160 304 0 ) ( -160 304 1 ) ( -159 304 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 132 25 0 1 1
+( -160 304 0 ) ( -159 304 0 ) ( -160 305 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 0 384 576 ) ( 0 385 576 ) ( 1 384 576 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 0 384 32 ) ( 1 384 32 ) ( 0 384 33 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 304 384 32 ) ( 304 384 33 ) ( 304 385 32 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 4
+{
+( -144 -192 104 ) ( -152 -176 48 ) ( -152 -176 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -152 -176 104 ) ( -148 -168 48 ) ( -148 -168 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -140 -160 104 ) ( -148 -168 48 ) ( -140 -160 48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -140 -160 48 ) ( -124 -152 104 ) ( -140 -160 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -128 -196 104 ) ( -144 -192 48 ) ( -144 -192 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -104 -188 48 ) ( -128 -196 48 ) ( -112 -192 48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -104 -188 104 ) ( -124 -152 104 ) ( -108 -160 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -112 -192 104 ) ( -128 -196 48 ) ( -128 -196 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -104 -188 104 ) ( -112 -192 48 ) ( -112 -192 104 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -108 -160 104 ) ( -124 -152 48 ) ( -108 -160 48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -104 -188 104 ) ( -108 -160 48 ) ( -104 -188 48 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 5
+{
+( -80 -80 -16 ) ( -80 48 -16 ) ( -80 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 -80 16 ) ( -76 -80.22222222222223 15.555555555555557 ) ( -80 -80 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 -80 16 ) ( -76 -80 16 ) ( -76 -80.22222222222223 15.555555555555557 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 -80 -16 ) ( -76 -80.22222222222223 -16 ) ( -80 48 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 48 16 ) ( -76 48 16 ) ( -80 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 48 -16 ) ( -76 48 -15 ) ( -80 48 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -80 48 -16 ) ( -76 47.77777777777778 -16 ) ( -76 48 -15 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 47.77777777777778 -16 ) ( -76 -80.22222222222223 -16 ) ( -76 48 -15 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 6
+{
+( 162.10882437766492 -93.4504902432036 -10.900980486407214 ) ( 187.60392194562888 -94.86688455253494 -16 ) ( 27.603921945628862 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+( 208 -96 -16 ) ( 187.60392194562888 -94.86688455253494 -16 ) ( 162.10882437766492 -93.4504902432036 -10.900980486407214 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 208 -96 -16 ) ( 162.10882437766492 -93.4504902432036 -10.900980486407214 ) ( 48 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 208 32 -16 ) ( 187.60392194562888 33.133115447465066 -16 ) ( 208 -96 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 -80 16 ) ( 27.603921945628862 -80 16 ) ( 48 48 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 48 16 ) ( 27.603921945628862 48 16 ) ( 38.93507642027949 48 13.733769105069873 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 48 16 ) ( 38.93507642027949 48 13.733769105069873 ) ( 208 32 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 -80 16 ) ( 48 48 16 ) ( 208 -96 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -64 -32 0 1 1
+}
+// brush 7
+{
+( -76 48 16 ) ( -76 44 16 ) ( -76 48 -15 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 44 16 ) ( 27.603921945628862 44 16 ) ( -76 44 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 47.77777777777778 -16 ) ( -76 44 -16 ) ( -8 44 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 27.603921945628862 48 16 ) ( 27.603921945628862 44 16 ) ( -76 48 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 48 -15 ) ( 38.93507642027949 48 13.733769105069873 ) ( -76 48 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 47.77777777777778 -16 ) ( -8 44 -16 ) ( -76 48 -15 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 38.93507642027949 48 13.733769105069873 ) ( 78.9350764202795 44 5.733769105069872 ) ( 27.603921945628862 48 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+}
+// brush 8
+{
+( -76 -80.22222222222223 -16 ) ( -76 -76.21605413837334 -16 ) ( -76 -80.22222222222223 15.555555555555557 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -80.22222222222223 15.555555555555557 ) ( 162.10882437766492 -93.4504902432036 -10.900980486407214 ) ( -76 -80.22222222222223 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -80 16 ) ( -7.888974490720116 -80 16 ) ( -76 -80.22222222222223 15.555555555555557 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 187.60392194562888 -94.86688455253494 -16 ) ( 187.60392194562888 -90.86071646868606 -16 ) ( -76 -80.22222222222223 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -80 16 ) ( -76 -76.21605413837334 16 ) ( -7.888974490720116 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -7.888974490720116 -80 16 ) ( -76 -76.21605413837334 16 ) ( 71.9700424910651 -84.43661205454363 7.12677589091275 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -0.22187996 0 0 1 1
+( 162.10882437766492 -93.4504902432036 -10.900980486407214 ) ( 71.9700424910651 -84.43661205454363 7.12677589091275 ) ( 187.60392194562888 -94.86688455253494 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+}
+// brush 9
+{
+( -76 44 -16 ) ( -76 44 -14.533814687380637 ) ( -76 43.67418104164015 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 187.60392194562888 29.029518711327423 -16 ) ( -76 43.67418104164015 -16 ) ( 37.899109058903065 44 13.940962577345159 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0.21661377 0.8664489 0 1 1
+( -76 44 -16 ) ( -76 43.67418104164015 -16 ) ( -8 44 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 78.9350764202795 44 5.733769105069872 ) ( 37.899109058903065 44 13.940962577345159 ) ( -8 44 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 187.60392194562888 33.133115447465066 -16 ) ( 78.9350764202795 44 5.733769105069872 ) ( -8 44 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 187.60392194562888 33.133115447465066 -16 ) ( 187.60392194562888 29.029518711327423 -16 ) ( 78.9350764202795 44 5.733769105069872 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+}
+// brush 10
+{
+( -76 -76.21605413837334 16 ) ( -76 -76.21605413837334 14.623619813254152 ) ( -76 -75.52786404500041 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 71.9700424910651 -84.43661205454363 7.12677589091275 ) ( 172.59310147855587 -90.02678199829312 -12.997835906585397 ) ( -7.888974490720116 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -0.22187996 0 0 1 1
+( 27.603921945628862 -80 16 ) ( 71.9700424910651 -84.43661205454363 7.12677589091275 ) ( -7.888974490720116 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -76.21605413837334 16 ) ( -76 -75.52786404500041 16 ) ( -7.888974490720116 -80 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -76.21605413837334 14.623619813254152 ) ( 172.59310147855587 -90.02678199829312 -12.997835906585397 ) ( -76 -75.52786404500041 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 -1.7888546 0 1 1
+( 27.603921945628862 -80 16 ) ( 27.603921945628862 -75.5278640450004 16 ) ( 71.9700424910651 -84.43661205454363 7.12677589091275 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+}
+// brush 11
+{
+( -76 -76.21605413837334 14.623619813254152 ) ( -76 -76.21605413837334 12 ) ( -76 -75.52786404500041 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -76.21605413837334 14.623619813254152 ) ( -52.387421680712634 -77.52786404500041 12 ) ( -76 -76.21605413837334 12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -0.22187996 0 0 1 1
+( -76 44 12 ) ( -76 -76.21605413837334 12 ) ( 30.135258749522436 44 12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 27.603921945628862 44 16 ) ( 27.603921945628862 -75.5278640450004 16 ) ( -76 44 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 44 16 ) ( -76 44 12 ) ( 27.603921945628862 44 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 27.603921945628862 -75.5278640450004 16 ) ( 47.60392194562886 -77.5278640450004 12 ) ( -76 -75.52786404500041 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 -1.7888546 0 1 1
+( 37.899109058903065 44 13.940962577345159 ) ( 30.135258749522436 44 12 ) ( 47.603921945628855 43.02951871132742 12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0.21661377 0.8664489 0 1 1
+( 37.899109058903065 44 13.940962577345159 ) ( 47.603921945628855 43.02951871132742 12 ) ( 27.603921945628862 44 16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+}
+// brush 12
+{
+( -76 44 -14.533814687380637 ) ( -76 44 -12 ) ( -76 43.67418104164015 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 -76.21605413837334 -16 ) ( -76 -76.21605413837334 -12 ) ( 187.60392194562888 -90.86071646868606 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -0.22187996 0 0 1 1
+( 172.59310147855587 -90.02678199829312 -12.997835906585397 ) ( 163.6125783192873 -89.52786404500041 -12 ) ( 167.60392194562888 -89.52786404500041 -12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 -1.7888546 0 1 1
+( 187.60392194562888 -90.86071646868606 -16 ) ( 187.60392194562888 29.029518711327423 -16 ) ( -76 -76.21605413837334 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 44 -12 ) ( -65.86474125047746 44 -12 ) ( -76 -76.21605413837334 -12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -76 44 -14.533814687380637 ) ( -65.86474125047746 44 -12 ) ( -76 44 -12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 187.60392194562888 29.029518711327423 -16 ) ( 167.60392194562888 31.029518711327423 -12 ) ( -76 43.67418104164015 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0.21661377 0.8664489 0 1 1
+( 172.59310147855587 -90.02678199829312 -12.997835906585397 ) ( 167.60392194562888 -89.52786404500041 -12 ) ( 187.60392194562888 -90.86071646868606 -16 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 -63.215538 -32 0 1 1
+}
+// brush 13
+{
+( 44 64 24 ) ( 44 -16 24 ) ( 44 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 -16 8 ) ( 44 -16 8 ) ( 48 -16 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 64 8 ) ( 44 64 8 ) ( 48 -16 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 -16 24 ) ( 44 -16 24 ) ( 48 64 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 64 24 ) ( 44 64 24 ) ( 48 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 48 -16 24 ) ( 48 64 24 ) ( 48 -16 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 14
+{
+( -16 -16 8 ) ( -16 64 8 ) ( -16 -16 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -16 -16 24 ) ( -12 -16 24 ) ( -16 -16 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -16 -16 8 ) ( -12 -16 8 ) ( -16 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -16 64 24 ) ( -12 64 24 ) ( -16 -16 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -16 64 8 ) ( -12 64 8 ) ( -16 64 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 -16 8 ) ( -12 -16 24 ) ( -12 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 15
+{
+( -12 64 24 ) ( -12 60 24 ) ( -12 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 60 24 ) ( 44 60 8 ) ( -12 60 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 64 8 ) ( -12 60 8 ) ( 44 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 64 24 ) ( 44 60 24 ) ( -12 64 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 64 24 ) ( -12 64 24 ) ( 44 64 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 64 8 ) ( 44 60 8 ) ( 44 64 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 16
+{
+( -12 -16 8 ) ( -12 -12 8 ) ( -12 -16 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 -16 8 ) ( -12 -16 8 ) ( 44 -16 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 -16 8 ) ( 44 -12 8 ) ( -12 -16 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 -16 24 ) ( -12 -12 24 ) ( 44 -16 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 -12 8 ) ( 44 -12 8 ) ( -12 -12 24 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 -16 24 ) ( 44 -12 24 ) ( 44 -16 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 17
+{
+( -12 -12 88 ) ( -12 -12 84 ) ( -12 60 88 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 -12 88 ) ( 44 -12 84 ) ( -12 -12 88 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 60 84 ) ( -12 60 84 ) ( 44 -12 84 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 60 88 ) ( 44 -12 88 ) ( -12 60 88 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 60 88 ) ( -12 60 84 ) ( 44 60 88 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 60 88 ) ( 44 60 84 ) ( 44 -12 88 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 18
+{
+( -12 60 8 ) ( -12 60 12 ) ( -12 -12 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 -12 8 ) ( -12 -12 12 ) ( 44 -12 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 60 8 ) ( -12 -12 8 ) ( 44 60 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( -12 -12 12 ) ( -12 60 12 ) ( 44 -12 12 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 60 8 ) ( 44 60 12 ) ( -12 60 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 44 -12 8 ) ( 44 -12 12 ) ( 44 60 8 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+// brush 19
+{
+( 40 -104 0 ) ( 40 -104 -4 ) ( 40 -32 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 96 -104 0 ) ( 96 -104 -4 ) ( 40 -104 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 96 -32 -4 ) ( 40 -32 -4 ) ( 96 -104 -4 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 96 -32 0 ) ( 96 -104 0 ) ( 40 -32 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 40 -32 0 ) ( 40 -32 -4 ) ( 96 -32 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+( 96 -32 0 ) ( 96 -32 -4 ) ( 96 -104 0 ) a_photograph_of_an_astronaut_riding_a_horse_T3J0DIR0 0 0 0 1 1
+}
+}
+// entity 1
+{
+"classname" "light"
+"origin" "-40 -8 72"
+}
