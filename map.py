@@ -12,9 +12,9 @@ from panda3d.core import (GeomVertexFormat,
                           TransformState)
 
 
-def load_map(map_name, parent, generate_collisions=True, override_texture_location=None):
+def load_map(map_path, parent, generate_collisions=True, override_texture_location=None):
     mp = MapParser()
-    mp.parser_load(f"./mapquest/test_maps/{map_name}")
+    mp.parser_load(map_path)
     mp.map_data.load_texture_data(override_texture_location)
     geo_gen = GeoGenerator(mp.map_data)
     geo_gen.run()

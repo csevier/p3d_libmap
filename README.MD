@@ -23,17 +23,17 @@ Note: It does not yet support quake maps because the textures are packed in wad 
 ## Usage:
 you can use any node path where base.render is, this is the node path the map will be parented to.
 ```python
-map_data = load_map("test_level9.map", base.render)
+map_data = load_map("<path>/<to>/<my>.map", base.render)
 ```
 
 To skip collision generation:
 ```python
-map_data = load_map("test_level9.map", base.render, generate_collisions=False)
+map_data = load_map("<path>/<to>/<my>.map", base.render, generate_collisions=False)
 ```
 
 By default Trenchbroom sets the path to textures depending on your game settings, this is stored in the map file as _tb_textures. p3d_libmap will use this but you can override this behavior:
 ```python
-map_data = load_map("test_level9.map", base.render, override_texture_location="/path/to/my/textures")
+map_data = load_map("<path>/<to>/<my>.map", base.render, override_texture_location="/path/to/my/textures")
 ```
 
 All data is found in the map data object:
