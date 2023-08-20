@@ -45,35 +45,36 @@ def load_map(map_name, parent, generate_collisions=True, override_texture_locati
                 # set texture
                 np.setTexture(texture.p3d_texture, 1)
                 np.setScale(0.01)
-                collision_node = CollisionNode(node.name)
-                collision_mesh = np.attach_new_node(collision_node)
-                transform = TransformState.make_identity()
-                min = None
-                max = None
-                for geom in node.get_geoms():
-                    if geom.primitive_type != Geom.PT_polygons:
-                        continue
+                if generate_collisions:
+                    collision_node = CollisionNode(node.name)
+                    collision_mesh = np.attach_new_node(collision_node)
+                    transform = TransformState.make_identity()
+                    min = None
+                    max = None
+                    for geom in node.get_geoms():
+                        if geom.primitive_type != Geom.PT_polygons:
+                            continue
 
-                    vertex = GeomVertexReader(geom.get_vertex_data(), 'vertex')
+                        vertex = GeomVertexReader(geom.get_vertex_data(), 'vertex')
 
-                    geom = geom.decompose()
-                    geom.transform_vertices(transform.get_mat())
+                        geom = geom.decompose()
+                        geom.transform_vertices(transform.get_mat())
 
-                    for prim in geom.get_primitives():
-                        for i in range(0, prim.get_num_vertices(), 3):
-                            vertex.set_row(prim.get_vertex(i))
-                            v1 = vertex.get_data3()
-                            vertex.set_row(prim.get_vertex(i + 1))
-                            v2 = vertex.get_data3()
-                            vertex.set_row(prim.get_vertex(i + 2))
-                            v3 = vertex.get_data3()
-                            origin = (v1 + v2 + v3) * (1.0 / 3)
-                            if min is None:
-                                min = origin
-                                max = origin
-                            else:
-                                min = min.fmin(origin)
-                                max = max.fmax(origin)
-                            solid = CollisionPolygon(v1, v2, v3)
-                            collision_node.add_solid(solid)
+                        for prim in geom.get_primitives():
+                            for i in range(0, prim.get_num_vertices(), 3):
+                                vertex.set_row(prim.get_vertex(i))
+                                v1 = vertex.get_data3()
+                                vertex.set_row(prim.get_vertex(i + 1))
+                                v2 = vertex.get_data3()
+                                vertex.set_row(prim.get_vertex(i + 2))
+                                v3 = vertex.get_data3()
+                                origin = (v1 + v2 + v3) * (1.0 / 3)
+                                if min is None:
+                                    min = origin
+                                    max = origin
+                                else:
+                                    min = min.fmin(origin)
+                                    max = max.fmax(origin)
+                                solid = CollisionPolygon(v1, v2, v3)
+                                collision_node.add_solid(solid)
     return mp.map_data
