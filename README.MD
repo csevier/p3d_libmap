@@ -52,6 +52,7 @@ for entity in map_data.entities:
         # this would be a light entity should your fgd be formatted that way. This is how qodot defines lights.
 ```
 
+## Showcase
 
 ![Alt text](/images/trenchbroom_showcase.png?raw=true "Example")
 
